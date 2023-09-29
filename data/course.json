@@ -1,0 +1,62 @@
+{
+  "term": "Fall",
+  "year": "2019",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Philosophy",
+      "Epistemology"
+    ],
+    [
+      "Humanities",
+      "Philosophy",
+      "Ethics"
+    ],
+    [
+      "Humanities",
+      "Philosophy",
+      "Logic"
+    ],
+    [
+      "Humanities",
+      "Philosophy",
+      "Metaphysics"
+    ],
+    [
+      "Humanities",
+      "Religion"
+    ]
+  ],
+  "legacy_uid": "1746b18c-827c-602e-5a34-7fdbc7bae2e6",
+  "instructors": {
+    "content": [
+      "604e8e04-bf51-d31c-615f-5c521299fb8c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "55837ae5-c3d8-2b8c-4ac4-aba94836f742",
+    "website": "24-00-problems-of-philosophy-fall-2019"
+  },
+  "course_title": "Problems of Philosophy",
+  "course_description": "This course is an introduction to the problems of philosophy\u2014in particular, to problems in ethics, metaphysics, theory of knowledge, and philosophy of logic, language, and science. It takes a systematic rather than historical approach. Readings come from classical and contemporary sources, but emphasis is on examination and evaluation of proposed solutions to the problems.\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.00",
+  "course_image_thumbnail": {
+    "content": "a8fb8727-53d2-3958-4c65-d7a78a512b3a",
+    "website": "24-00-problems-of-philosophy-fall-2019"
+  },
+  "learning_resource_types": [
+    "Written Assignments",
+    "Lecture Notes"
+  ],
+  "site_uid": "60da9e6b-f965-4def-a813-fb0051a88d91",
+  "site_short_id": "24.00-fall-2019",
+  "title": "Course Metadata"
+}

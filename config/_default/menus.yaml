@@ -1,0 +1,41 @@
+leftnav:
+- identifier: eab0550b-12d0-53b4-6582-bba79941a6d3
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: d9ba51ca-7d52-4ea7-9d34-9449f6519e21
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 7ecfbf51-52b3-6554-ce1a-ef785eef16e9
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 5664d568-a968-a00a-86ca-e5c36608708b
+  name: Lecture Handouts
+  pageRef: /pages/lecture-handouts
+  weight: 40
+- identifier: 7fd97766-5038-fc6f-62ad-776c30c443a9
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 50
+- identifier: 278e24f6-b207-efa9-17be-af9700e853b1
+  name: Paper 1
+  pageRef: /pages/assignments/paper-1
+  parent: 7fd97766-5038-fc6f-62ad-776c30c443a9
+  weight: 60
+- identifier: be0dff92-b611-db3e-4c37-154c239d0f82
+  name: Paper 2
+  pageRef: /pages/assignments/paper-2
+  parent: 7fd97766-5038-fc6f-62ad-776c30c443a9
+  weight: 70
+- identifier: 76d13805-8f40-0e82-92f6-df49779cddca
+  name: Paper 3
+  pageRef: /pages/assignments/paper-3
+  parent: 7fd97766-5038-fc6f-62ad-776c30c443a9
+  weight: 80
+- identifier: 3d2ceb50-2e27-baef-f5d2-ae2beb9f7033
+  name: Paper 4
+  pageRef: /pages/assignments/paper-4
+  parent: 7fd97766-5038-fc6f-62ad-776c30c443a9
+  weight: 90
